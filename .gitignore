@@ -1,0 +1,9 @@
+*
+
+[Ll]ibrary/
+
+!Assets/
+!Packages/
+!ProjectSettings/
+!.gitignore
+!*/**/*
